@@ -85,7 +85,7 @@ WebブラウザGoogle Chromeの最新版を利用してアクセスしてくだ�
 タスク名を入力し、青いボタンの「Create Task」をクリックして作成できます。
 
 ## データベース設計
-!ER図(./スクリーンショット%202020-10-07%2020.39.38.png)
+!ER図(https://github.com/amiapple/task-app/blob/master/images/スクリーンショット%202020-10-08%204.34.02.png)
 
 ## ローカルでの動作方法
 開発環境
